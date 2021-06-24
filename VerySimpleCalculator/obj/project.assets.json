@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "VerySimpleCalculatorLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/VerySimpleCalculatorLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VerySimpleCalculatorLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "VerySimpleCalculatorLibrary/1.0.0": {
+      "type": "project",
+      "path": "../VerySimpleCalculatorLibrary/VerySimpleCalculatorLibrary.csproj",
+      "msbuildProject": "../VerySimpleCalculatorLibrary/VerySimpleCalculatorLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "VerySimpleCalculatorLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\prasa\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\prasa\\source\\repos\\VerySimpleCalculator\\VerySimpleCalculatorLibrary\\VerySimpleCalculatorLibrary.csproj": {
+              "projectPath": "C:\\Users\\prasa\\source\\repos\\VerySimpleCalculator\\VerySimpleCalculatorLibrary\\VerySimpleCalculatorLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
