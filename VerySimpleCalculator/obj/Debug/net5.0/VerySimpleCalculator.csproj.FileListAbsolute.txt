@@ -38,3 +38,5 @@ C:\Users\prasa\source\repos\VerySimpleCalculator\VerySimpleCalculator\obj\Debug\
 C:\Users\prasa\source\repos\VerySimpleCalculator\VerySimpleCalculator\obj\Debug\net5.0\VerySimpleCalculator.pdb
 C:\Users\prasa\source\repos\VerySimpleCalculator\VerySimpleCalculator\obj\Debug\net5.0\VerySimpleCalculator.genruntimeconfig.cache
 C:\Users\prasa\source\repos\VerySimpleCalculator\VerySimpleCalculator\obj\Debug\net5.0\VerySimpleCalculator.csproj.CopyComplete
+C:\Users\prasa\source\repos\VerySimpleCalculator\VerySimpleCalculator\bin\Debug\net5.0\VerySimpleCalculatorLibrary.dll
+C:\Users\prasa\source\repos\VerySimpleCalculator\VerySimpleCalculator\bin\Debug\net5.0\VerySimpleCalculatorLibrary.pdb
