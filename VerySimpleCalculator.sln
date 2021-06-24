@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerySimpleCalculator", "Ver
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerySimpleCalculatorLibrary", "VerySimpleCalculatorLibrary\VerySimpleCalculatorLibrary.csproj", "{384D6854-D412-4557-A671-3CC5F02D887C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerySimpleCalculatorAPI", "VerySimpleCalculatorAPI\VerySimpleCalculatorAPI.csproj", "{BC31B61E-9BFA-4ED1-80C3-FC3D48AF0CBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{384D6854-D412-4557-A671-3CC5F02D887C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{384D6854-D412-4557-A671-3CC5F02D887C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{384D6854-D412-4557-A671-3CC5F02D887C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC31B61E-9BFA-4ED1-80C3-FC3D48AF0CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC31B61E-9BFA-4ED1-80C3-FC3D48AF0CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC31B61E-9BFA-4ED1-80C3-FC3D48AF0CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC31B61E-9BFA-4ED1-80C3-FC3D48AF0CBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
