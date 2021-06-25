@@ -1,4 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
 using VerySimpleCalculatorLibrary;
 
 namespace VerySimpleCalculatorTests
@@ -6,7 +7,7 @@ namespace VerySimpleCalculatorTests
     [TestClass]
 
 
-    public class UnitTest1
+    public class SimpleCalculatorTest
     {
         [TestMethod]
         [DataRow(1, 3)]
@@ -67,6 +68,13 @@ namespace VerySimpleCalculatorTests
             {
                 Assert.AreEqual(a, SimpleCalculator.mul(a, b));
             }
+        }
+
+        [DataTestMethod]
+        [DataRow(5, 0)]
+        public void DivisionByZeroIsHandledByException(double a, double b)
+        {
+            Assert.ThrowsException<DivideByZeroException>(() => SimpleCalculator.div(a, b));
         }
 
 
