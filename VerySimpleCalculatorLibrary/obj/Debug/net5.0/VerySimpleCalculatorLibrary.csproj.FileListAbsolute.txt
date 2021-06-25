@@ -2,7 +2,6 @@ C:\Users\prasa\source\repos\VerySimpleCalculator\VerySimpleCalculatorLibrary\bin
 C:\Users\prasa\source\repos\VerySimpleCalculator\VerySimpleCalculatorLibrary\bin\Debug\net5.0\VerySimpleCalculatorLibrary.dll
 C:\Users\prasa\source\repos\VerySimpleCalculator\VerySimpleCalculatorLibrary\bin\Debug\net5.0\ref\VerySimpleCalculatorLibrary.dll
 C:\Users\prasa\source\repos\VerySimpleCalculator\VerySimpleCalculatorLibrary\bin\Debug\net5.0\VerySimpleCalculatorLibrary.pdb
-C:\Users\prasa\source\repos\VerySimpleCalculator\VerySimpleCalculatorLibrary\obj\Debug\net5.0\VerySimpleCalculatorLibrary.csproj.AssemblyReference.cache
 C:\Users\prasa\source\repos\VerySimpleCalculator\VerySimpleCalculatorLibrary\obj\Debug\net5.0\VerySimpleCalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\prasa\source\repos\VerySimpleCalculator\VerySimpleCalculatorLibrary\obj\Debug\net5.0\VerySimpleCalculatorLibrary.AssemblyInfoInputs.cache
 C:\Users\prasa\source\repos\VerySimpleCalculator\VerySimpleCalculatorLibrary\obj\Debug\net5.0\VerySimpleCalculatorLibrary.AssemblyInfo.cs
